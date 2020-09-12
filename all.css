@@ -1,7 +1,7 @@
 .bg{
     width: 1024px;
     height: 380px;
-    background-image: url('https://upload.cc/i1/2020/09/12/Inwgvr.png');
+    background-image: url(https://upload.cc/i1/2020/09/12/Inwgvr.png);
 }
 .title{
     font-family: PingFangTC-Regular;
@@ -18,7 +18,7 @@
     width: 452px;
     padding-left: 9.5px;
     height: 48px;
-    background-image: url('https://upload.cc/i1/2020/09/12/Cn8UOw.png');
+    background-image: url(https://upload.cc/i1/2020/09/12/Cn8UOw.png);
     background-repeat: no-repeat;
     background-position: 410px 20px;
     appearance: none;
