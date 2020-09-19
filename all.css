@@ -109,3 +109,8 @@
 .boxShadow{
     box-shadow: 0 1px 3px 0 ;
 }
+.btnGoTop{
+    position:fixed;
+    right: 250px;
+    bottom:0px;
+}
